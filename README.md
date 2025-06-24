@@ -51,11 +51,5 @@ This project shows that combining optimized ML/DL models significantly boosts fr
 - Improve front-end usability and deployment
 
 ---
+  
 
-🧑‍💻 Developed by:
-- K. Yamini  
-- B. Dharma Rao  
-- K. Rakshitha  
-- G. Ashok  
-Under the guidance of Dr. M. Jayamanmadha Rao  
-Department of ECE, Aditya Institute of Technology and Management
